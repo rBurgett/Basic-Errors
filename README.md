@@ -21,4 +21,4 @@ To clear the errors, use the ```clear()``` method:
 ```
 errors.clear();
 ```
-All gone!
+All done!
