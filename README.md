@@ -3,7 +3,7 @@ Basic-Errors
 
 This is a basic JavaScript object for handling errors.
 
-First, create your ```errors``` object:
+First, create your ```Errors``` object:
 ```
 var errors = Errors.create();
 ```
